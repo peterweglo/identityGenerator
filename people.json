@@ -1,0 +1,82 @@
+[
+  {
+    "gender": "male",
+    "name": "Richard",
+    "lastName": "Rodriguez",
+    "age": 86,
+    "email": "richard.rodriguez@gmail.com",
+    "phone": "040-251-398"
+  },
+  {
+    "gender": "male",
+    "name": "John",
+    "lastName": "Garcia",
+    "age": 78,
+    "email": "john.garcia@gmail.com",
+    "phone": "851-874-990"
+  },
+  {
+    "gender": "male",
+    "name": "John",
+    "lastName": "Davis",
+    "age": 74,
+    "email": "john.davis@gmail.com",
+    "phone": "305-882-837"
+  },
+  {
+    "gender": "male",
+    "name": "Joseph",
+    "lastName": "Wilson",
+    "age": 37,
+    "email": "joseph.wilson@gmail.com",
+    "phone": "294-756-925"
+  },
+  {
+    "gender": "male",
+    "name": "Thomas",
+    "lastName": "Smith",
+    "age": 67,
+    "email": "thomas.smith@gmail.com",
+    "phone": "053-477-082"
+  },
+  {
+    "gender": "female",
+    "name": "Elizabeth",
+    "lastName": "Wilson",
+    "age": 84,
+    "email": "elizabeth.wilson@gmail.com",
+    "phone": "315-963-796"
+  },
+  {
+    "gender": "female",
+    "name": "Jennifer",
+    "lastName": "Davis",
+    "age": 48,
+    "email": "jennifer.davis@gmail.com",
+    "phone": "990-589-400"
+  },
+  {
+    "gender": "male",
+    "name": "James",
+    "lastName": "Miller",
+    "age": 77,
+    "email": "james.miller@gmail.com",
+    "phone": "139-310-368"
+  },
+  {
+    "gender": "female",
+    "name": "Patricia",
+    "lastName": "Davis",
+    "age": 69,
+    "email": "patricia.davis@gmail.com",
+    "phone": "104-570-670"
+  },
+  {
+    "gender": "female",
+    "name": "Jennifer",
+    "lastName": "Williams",
+    "age": 60,
+    "email": "jennifer.williams@gmail.com",
+    "phone": "875-761-773"
+  }
+]
